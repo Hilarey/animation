@@ -1,2 +1,7 @@
 # animation
-odometr, wow, animate.css, lodash debounce 
+
+lodash.js
+animate.css
+odometer.css 
+odometer.js
+wow.js

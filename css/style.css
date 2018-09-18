@@ -1,0 +1,26 @@
+.box {
+  display: block;
+  width: 80%;
+  height: 48vh;
+  background: #080;
+  color: #fff;
+  font-family: sans-serif;
+  margin: 30px auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+}
+
+.box:nth-of-type(odd) {
+    background: #080;
+}
+.box:nth-of-type(even) {
+    background: #088;
+}
+
+.odometer-wrp {
+   display: flex;
+   justify-content: space-around;
+}
